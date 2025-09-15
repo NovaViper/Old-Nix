@@ -1,0 +1,10 @@
+[Appearance]
+Skin=Dracula
+TerminalHighlightOnManualActivation=true
+
+[Dialogs]
+FirstRun=false
+
+[Window]
+KeepOpen=false
+ToggleToFocus=true
